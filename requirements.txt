@@ -1,0 +1,11 @@
+https://github.com/hyperskill/hs-test-python/archive/release.tar.gz
+langchain-core
+langchain-openai
+python-dotenv
+langfuse==4.7.1
+qdrant-client
+langchain_qdrant
+requests
+langchain-text-splitters
+langgraph
+langchain
